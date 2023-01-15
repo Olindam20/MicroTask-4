@@ -11,20 +11,26 @@ It is an API that does error handling by showing a error message.
     https://m5xgtl.deta.dev/api/error
 ```
 
-## Installation
+## API Refernce
 
-Install MicroTask-1 with npm
-
+#### Clone the git repository
 ```bash
   git clone https://github.com/Olindam20/MicroTask-1
-  cd MicroTask-1
-  npm i 
+```
+#### Navigation
+```bash
+  cd MicroTask-1 
+```
+#### Installation
+```bash
+  npm i
   npm start
 ```
-## Endpoints
+
+#### Endpoints
 ```http
-    api/error
-```    
+  /api/error
+```   
 
 # Third MicroTask
 It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
@@ -37,16 +43,23 @@ It is an MicroService in which user's current address is automatically shown at 
     https://vx9xkl.deta.dev/get-address
 ```
 
-## Installation
+## API Refernce
 
-
+#### Clone the git repository
 ```bash
   git clone https://github.com/Olindam20/MicroTask-3
-  cd MicroTask-3
-  npm i 
+```
+#### Navigation
+```bash
+  cd MicroTask-3  
+```
+#### Installation
+```bash
+  npm i
   npm start
 ```
-## Endpoints
+
+#### Endpoints
 ```http
-    get-address
+  /get-address
 ```   
