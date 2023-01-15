@@ -33,7 +33,7 @@ It is an API that does error handling by showing a error message.
     git clone https://github.com/olindam20/MicroTask-2
 
 #### Navigation
-    cd Microtask2
+    cd MicroTask-2
     cd AuthAPI or cd ErrorHandler or cd ViewCounter
 
 #### Installation
