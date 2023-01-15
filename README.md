@@ -13,12 +13,17 @@ It is an API that does error handling by showing a error message.
 
 #### Clone the git repository
     git clone https://github.com/Olindam20/MicroTask-1
+
 #### Navigation
     cd MicroTask-1 
+
 #### Installation
     npm i
+
 #### Runserver
     npm start
+
+
 #### Endpoints
     /api/error
 
@@ -29,14 +34,19 @@ It is an API that does error handling by showing a error message.
 
 #### Clone the git repository
     git clone https://github.com/olindam20/MicroTask-2
+
 #### Navigation
     cd Microtask2
     cd AuthAPI or cd ErrorHandler or cd ViewCounter
+
 #### Installation
     npm i
+
 #### Runserver
     npm start
+
 ## API Reference
+
 ### ErrorHandler
 
 #### Get a random error message which is handled by a dummy ErrorHandler middleware
@@ -70,6 +80,7 @@ It is an API that does error handling by showing a error message.
 
 # Third MicroTask
 It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
+
 ### Repo Link
   https://github.com/Olindam20/MicroTask-3
 
