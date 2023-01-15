@@ -28,7 +28,8 @@ It is an API that does error handling by showing a error message.
 # Second MicroTask
 ### It is a microservice which accumulates three different microservice APIs : ErrorHandler,Authentication and Visitor counter
 
-
+# Repo Link
+    https://github.com/Olindam20/MicroTask-2
 #### Clone the git repository
     git clone https://github.com/olindam20/MicroTask-2
 
@@ -73,6 +74,34 @@ It is an API that does error handling by showing a error message.
 | body | email | Required|
 | body | password | Required|
 
+
+
+# Third MicroTask
+It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
+
+#### Repo Link
+    https://github.com/Olindam20/MicroTask-3
+
+#### Deta Link
+    https://vx9xkl.deta.dev/get-address
+
+
+### API Refernce
+
+#### Clone the git repository
+    git clone https://github.com/Olindam20/MicroTask-3
+
+#### Navigation
+    cd MicroTask-3  
+
+#### Installation
+    npm i
+    npm start
+
+
+#### Endpoints
+    /get-address
+ 
 
 
 # Third MicroTask
