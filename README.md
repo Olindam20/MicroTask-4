@@ -71,32 +71,27 @@ It is an API that does error handling by showing a error message.
 # Third MicroTask
 It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
 ### Repo Link
-```http
-    https://github.com/Olindam20/MicroTask-3
-```
+  https://github.com/Olindam20/MicroTask-3
+
 ### Deta Link
-```http
-    https://vx9xkl.deta.dev/get-address
-```
+  https://vx9xkl.deta.dev/get-address
+
 
 ### API Refernce
 
 #### Clone the git repository
-```bash
   git clone https://github.com/Olindam20/MicroTask-3
-```
+
 #### Navigation
-```bash
   cd MicroTask-3  
-```
+
 #### Installation
   npm i
   npm start
 
 
 #### Endpoints
-```http
   /get-address
-```   
+ 
 ## Author
 -[@olindam20](https://github.com/Olindam20)
