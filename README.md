@@ -2,12 +2,16 @@
 # First MicroTask
 It is an API that does error handling by showing a error message.
 
-### Repo Link
+#### Repo Link
+```bash
     https://github.com/Olindam20/MicroTask-1
+```
+    
 
-### Deta Link
-    https://m5xgtl.deta.dev/api/error
-
+#### Deta Link
+```bash
+   https://m5xgtl.deta.dev/api/error
+```
 
 
 
@@ -81,28 +85,28 @@ It is an API that does error handling by showing a error message.
 # Third MicroTask
 It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
 
-### Repo Link
-  https://github.com/Olindam20/MicroTask-3
+#### Repo Link
+    https://github.com/Olindam20/MicroTask-3
 
-### Deta Link
-  https://vx9xkl.deta.dev/get-address
+#### Deta Link
+    https://vx9xkl.deta.dev/get-address
 
 
 ### API Refernce
 
 #### Clone the git repository
-  git clone https://github.com/Olindam20/MicroTask-3
+    git clone https://github.com/Olindam20/MicroTask-3
 
 #### Navigation
-  cd MicroTask-3  
+    cd MicroTask-3  
 
 #### Installation
-  npm i
-  npm start
+    npm i
+    npm start
 
 
 #### Endpoints
-  /get-address
+    /get-address
  
 ## Author
 -[@olindam20](https://github.com/Olindam20)
