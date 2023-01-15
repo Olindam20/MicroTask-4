@@ -3,17 +3,12 @@
 It is an API that does error handling by showing a error message.
 
 #### Repo Link
-```bash
-   https://github.com/Olindam20/MicroTask-1
-```
+    https://github.com/Olindam20/MicroTask-1
+
     
 
 #### Deta Link
-```bash
-   https://m5xgtl.deta.dev/api/error
-```
-
-
+    https://m5xgtl.deta.dev/api/error
 
 #### Clone the git repository
     git clone https://github.com/Olindam20/MicroTask-1
@@ -32,7 +27,7 @@ It is an API that does error handling by showing a error message.
     /api/error
 
 
-# Second Microtask
+# Second MicroTask
 ### It is a microservice which accumulates three different microservice APIs : ErrorHandler,Authentication and Visitor counter
 
 
