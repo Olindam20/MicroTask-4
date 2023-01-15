@@ -3,34 +3,70 @@
 It is an API that does error handling by showing a error message.
 
 ### Repo Link
-```http
     https://github.com/Olindam20/MicroTask-1
-```
-### Deta Link
-```http
-    https://m5xgtl.deta.dev/api/error
-```
 
-### API Refernce
+### Deta Link
+    https://m5xgtl.deta.dev/api/error
+
+
+
 
 #### Clone the git repository
-```bash
-  git clone https://github.com/Olindam20/MicroTask-1
-```
+    git clone https://github.com/Olindam20/MicroTask-1
 #### Navigation
-```bash
-  cd MicroTask-1 
-```
+    cd MicroTask-1 
 #### Installation
-```bash
-  npm i
-  npm start
-```
-
+    npm i
+#### Runserver
+    npm start
 #### Endpoints
-```http
-  /api/error
-```   
+    /api/error
+
+
+# Second Microtask
+### It is a microservice which accumulates three different microservice APIs : ErrorHandler,Authentication and Visitor counter
+
+
+#### Clone the git repository
+    git clone https://github.com/olindam20/MicroTask-2
+#### Navigation
+    cd Microtask2
+    cd AuthAPI or cd ErrorHandler or cd ViewCounter
+#### Installation
+    npm i
+#### Runserver
+    npm start
+## API Reference
+### ErrorHandler
+
+#### Get a random error message which is handled by a dummy ErrorHandler middleware
+    
+    GET http://localhost:3000/api/error
+
+### Authentication
+
+#### Sign-up(Returns token )
+
+  POST http://localhost:3000/api/sign-up
+
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| body | email | Required|
+| body | password | Required|
+
+
+#### Log In(Returns token)
+
+  GET http://localhost:3000/api/sign-in
+
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| body | email | Required|
+| body | password | Required|
+
+
 
 # Third MicroTask
 It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
@@ -54,12 +90,13 @@ It is an MicroService in which user's current address is automatically shown at 
   cd MicroTask-3  
 ```
 #### Installation
-```bash
   npm i
   npm start
-```
+
 
 #### Endpoints
 ```http
   /get-address
 ```   
+## Author
+-[@olindam20](https://github.com/Olindam20)
