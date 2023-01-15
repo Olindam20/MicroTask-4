@@ -6,11 +6,11 @@ It is an API that does error handling by showing a error message.
 ```http
     https://github.com/Olindam20/MicroTask-1
 ```
-
-## Endpoints
+## Deta Link
 ```http
-    api/error
+    https://m5xgtl.deta.dev/api/error
 ```
+
 ## Installation
 
 Install MicroTask-1 with npm
@@ -21,10 +21,12 @@ Install MicroTask-1 with npm
   npm i 
   npm start
 ```
-    
+## Endpoints
+```http
+    api/error
+```    
 
 # Third MicroTask
-# 
 It is an MicroService in which user's current address is automatically shown at first and when the form is filled with any address, corresponding latitude and longitude is shown.
 ## Repo Link
 ```http
