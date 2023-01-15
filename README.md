@@ -4,7 +4,7 @@ It is an API that does error handling by showing a error message.
 
 #### Repo Link
 ```bash
-    https://github.com/Olindam20/MicroTask-1
+   https://github.com/Olindam20/MicroTask-1
 ```
     
 
