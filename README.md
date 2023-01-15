@@ -5,8 +5,6 @@ It is an API that does error handling by showing a error message.
 #### Repo Link
     https://github.com/Olindam20/MicroTask-1
 
-    
-
 #### Deta Link
     https://m5xgtl.deta.dev/api/error
 
